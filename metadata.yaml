@@ -1,0 +1,38 @@
+_repo: Memoirs-of-Benjamin-Franklin--Written-by-Himself.--Vol.-1-of-2-Philosophical_36338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36338-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Franklin, Benjamin
+    birthdate: 1706
+    deathdate: 1790
+    gutenberg_agent_id: '92'
+    url: http://www.gutenberg.org/2009/agents/92
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
+description: ''
+gutenberg_issued: '2011-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcsh 'Franklin, Benjamin, 1706-1790 -- Correspondence'
+- !lcc 'PS'
+- !lcsh 'Franklin, Benjamin, 1706-1790'
+- !lcc 'E300'
+tableOfContents: Life of Dr. Franklin / written by himself -- Letter from Mr. Abel
+  James -- Letter from Mr. Benjamin Vaughan -- Continuation of life, begun at Passy,
+  1784 -- Memorandum -- Life of Franklin / continued by Dr. Stuber -- Extracts from
+  Franklin's will -- Writings of Franklin.
+title: "Memoirs of Benjamin Franklin; Written by Himself. [Vol. 1 of 2]\r\nWith His\
+  \ Most Interesting Essays, Letters, and Miscellaneous Writings; Familiar, Moral,\
+  \ Political, Economical, and Philosophical, Selected with Care from All His Published\
+  \ Productions, and Comprising Whatever Is Most Entertaining and Valuable to the\
+  \ General Reader"
+url: http://www.gutenberg.org/ebooks/36338
